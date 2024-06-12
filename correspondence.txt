@@ -11,6 +11,9 @@ We arrived in Topoló to the sound of birds and waterfalls and didn't immeditely
 
 
 
+On a windy morning I open my laptop and I write an r and an o into the search bar of my browser, which automatically fills in the rest of the url I have entered so many times while working on the site that it leads to. Right click. View Page Source. I make sure line wrap is ticked at the top, and with a subtle but sweet sense of excitement I scroll down to find a piece of text nested by two short strings of characters that resemble arrows pointing outwards or open arms. That which is held in between is hidden from the webpage and can only be read when you make your way here. Such a comment, as it is officially called, is typically used by developers for functional annotations — to summarise code or to explain the developer’s intent — and sometimes to disable a piece of code without deleting it entirely. For the past weeks we have been using it to exchange letters to each other.
+
+<!-- K: above is a paragraph that could be used as an introduction to our Correspondence, wherever that should come in, from a single person's perspective as it makes more sense here, and thinking that maybe it's also nice to switch between I and we at times. If we end up marking who wrote what, I think it shouldn't be too confusing. -->
 
 
 
