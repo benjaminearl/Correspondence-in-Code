@@ -1,4 +1,5 @@
 # Correspondence of Code
+## Writing about site specific website writing
 
 In February 2022, an are.na channel was created called "Code of Conduct of Code". It contains nine links and one piece of text. What is actually in the channel isn't of the greatest importance. What the channel stands for however, has begun to shape the way we (Kirsten & Ben) think about the internet. 
 
@@ -6,7 +7,24 @@ While the internet is a big place, full of dark corners and wall gardens, someho
 
 In February 2022, we were invited to make a website for Robida. We had never met them and had never visited Topoló, we had just heard stories from friends who had found there way there and spent time in the village amongst the hills. We decided that if we were going to make this website, we needed to spend some time with the people and place that it was about. 
 
-We arrived in Topoló to the sound of birds and waterfalls and didn't immeditely know where to begin. We walked and talked about ideas and plans.
+This decision to spend time with and in the site for which we were coding changed the way in which the website was made, how it works and what it looks like. Before we left for Topoló, our friend, Jack, pointed us towards a text about a practice called Site Writing. Site Writing is a practice developed by architecture critic Jane Rendell in which the writing of architecture critique is done within the space that the text is about. Not only do you then begin to inhabit, become affected by and sense the place you are writing about, but your writing can be affected by this same experience, opening it up to other people to experience through the text. It is a way to incorporate the political, social and material aspects of a site through a sensorial description. 
+
+What then, we wondered, would site writing look like if it were to be applied to the act of writing code?
+
+A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions. So what then would it mean for a website to be site specific?
+
+There are any number of ways in which you could make a website site specific, from it's hosting to it's interface. The Robida website became placeful in an unexpected sense. It became not just a space of publishing or a place for visitors to learn more about Robida, it also became a tool. 
+
+Watching the members of Robida use and adapt the website to and for their own uses whether it was through the misuse of templates or maintaining the "who's in Topoló" function, or the journal grow and develop in a completely different way than we imagined. 
+
+Recently, we returned to Topoló to continue work on the website. We had a list of things that didn't work, had broken along the way or had become superfluous. This time we returned with the idea of maintenance in mind. How can we begin to repair, upgrade and maintain the website as a tool for Robida to (mis)use whilst also making sure that it continues to work and function and is flexible enough for whatever happens next.
+
+When we returned from Topoló, we decided we wanted to correspond through the website, specifically through the source code. The website became a site in which we were to write in and about, so we had to write in-between the HTML, the PHP and the Javascript. You can find more of our thoughts on maintance in the source code of the website. 
+
+To get there, go to robidacollective.com and in whichever browser you're in, find the "view source" option (usually under view > developer in the top bar). 
+
+
+
 
 
 
