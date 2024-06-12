@@ -1,1 +1,37 @@
 # Correspondence of Code
+
+In February 2022, an are.na channel was created called "Code of Conduct of Code". It contains nine links and one piece of text. What is actually in the channel isn't of the greatest importance. What the channel stands for however, has begun to shape the way we (Kirsten & Ben) think about the internet. 
+
+While the internet is a big place, full of dark corners and wall gardens, somehow we ended up running into the same people there over and over again. Whether it was the those making the web a little more poetic or those developing hardware in local places in situated manners, we seemed to come across a network of those thinking through what the internet could be and how to create for it.
+
+In February 2022, we were invited to make a website for Robida. We had never met them and had never visited Topoló, we had just heard stories from friends who had found there way there and spent time in the village amongst the hills. We decided that if we were going to make this website, we needed to spend some time with the people and place that it was about. 
+
+We arrived in Topoló to the sound of birds and waterfalls and didn't immeditely know where to begin. We walked and talked about ideas and plans.
+
+
+
+
+
+
+
+
+
+
+
+
+What we did
+- How we made the website
+- Coding in situ
+    - Site writing
+    - Site specific
+
+Reflection on How
+        - using the site as a site to write in
+    - Puzzle/way finding
+    - Templates
+        - State the web
+        - Handmade web
+
+In Maintenance 
+ Code of Conduct of Code - as a practice
+- Development of principles
