@@ -1,6 +1,50 @@
 # Correspondence of Code
 ## Writing about site specific website writing
 
+On a windy morning I open my laptop and I write an r and an o into the search bar of my internet browser, which automatically fills in the rest of the url I have entered so many times while working on the site that it leads to. Right click. View Page Source. I make sure line wrap is ticked at the top, and with a subtle but sweet sense of excitement I scroll down to find a piece of text nested by two short strings of characters that resemble arrows pointing outwards or open arms. That which is held in between <!-- and --> is hidden from the webpage and can only be read when you make your way here. Such a ‘comment’, as it is officially called, is typically used by developers for functional annotations — to summarise code or to explain the developer’s intent — and sometimes to disable a piece of code without deleting it entirely. For the past weeks we, Ben and Kirsten, have been using it to exchange letters with each other in the source code of the Robida website. To explain how we ended up here, we need to make a jump back in time.
+
+In February 2022, an are.na channel was created called ‘Code of Conduct of Code’. The channel itself hasn’t been maintained much since; at the moment of writing this two years later, it contains nine links and one piece of text. Despite the lack of activity within this particular channel, its creation marked an important moment for the two of us in trying to start formulating values and intentions for approaching coding and the world wide web at large, a moment which coincided with an invitation from Robida to make their website.
+
+While the internet is a big place, full of dark corners and wall gardens, somehow we ended up running into the same people there over and over again. Whether it was those making the web a little more poetic[1] or those developing hardware in local places in situated manners[2], we seemed to come across a network[3] of those thinking through what the internet could be and how to create for it. In the years that the two of us got to know each other we often exchanged links to these kinds of online gems and added bits to the ‘handmade web’[4] ourselves, revelling in how we felt more hopeful about the web again. Whereas most mainstream platforms incite addictive doomscrolling, these small handmade sites encouraged a way of spending time on the web that felt more healthy and somehow also more connected to life outside of it.
+
+The commission from Robida came in like a perfect opportunity to put our shared values around coding into practice more deliberately, and try out a process that fit our desire to overcome the common disconnect between work within digital realms and life in physical surroundings. We had never been to Topolò, only heard and saw fragments from afar, so we were determined to immerse ourselves in the physical site that houses most of Robida—her members and activities—in order to imbue a sense of place in its online counterpart.
+
+Before we embarked on our trip, our friend, Jack, pointed us towards a text that mentioned a practice by Jane Rendell called Site Writing: “When writing responds to physical, social and political qualities of sites, is inserted back into sites, spaces are made out of encounters with readers, and like architecture, texts can inhabit and be inhabited.” Although slightly puzzled by the quote we were interested to see how this idea—or at least our interpretation of it—could apply to the writing of code, with a perhaps confusing yet poetic double meaning of the word *site*. Soon after a text file was added to the Code of Conduct of Code channel that contained the name we decided to give this method we'd be exploring: “Coding in Situ.”
+
+How would coding in situ affect how a website works and looks, and the way you as a developer, user or visitor would be able to inhabit such a website? Could this method make a website more placeful or situated? And what would it mean for a website to be site-specific?
+
+A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions, and is commonly hosted elsewhere than where its author is located. There are any number of ways in which you could make a website site-specific, from hosting it on your own server to making it accessible only if you enter its local wifi network[5]. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Laurel Schwulst thinking about a website as a physical space https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
+2. Low-tech Magazine self-hosting their website on a solar-powered server https://solar.lowtechmagazine.com/about/the-solar-website/
+3. Kristoffer Tjalve and Elliott Cost have been mapping out a significant portion of this corners of the web https://diagram.website/
+4. The handmade web is a term coined by J.R. Carpenter: “I evoke the term 'handmade web' to refer to web pages coded by hand rather than by software; web pages made and maintained by individuals rather than by businesses or corporations; web pages which are provisional, temporary, or one-of-a-kind; web pages which challenge conventions of reading, writing, design, ownership, privacy, security, or identity.” https://luckysoap.com/statements/handmadeweb.html
+5. Ben has experimented with both, hosting the Extra Practice website on a Raspberry Pi on his desk and a 1MB website using an ESP32 Module, a battery, and a solar panel in a field during the Hackers & Designers Summer Camp 2023. The latter could serve as a captive portal (similar to WiFi login pages at hotels and airports) to any device connected to the computer’s WiFi signal.
+
+
+
+
+
+
+
+-----
+
+B:
+
 In February 2022, an are.na channel was created called "Code of Conduct of Code". It contains nine links and one piece of text. What is actually in the channel isn't of the greatest importance. What the channel stands for however, has begun to shape the way we (Kirsten & Ben) think about the internet. 
 
 While the internet is a big place, full of dark corners and wall gardens, somehow we ended up running into the same people there over and over again. Whether it was the those making the web a little more poetic or those developing hardware in local places in situated manners, we seemed to come across a network of those thinking through what the internet could be and how to create for it.
@@ -27,11 +71,11 @@ To get there, go to robidacollective.com and in whichever browser you're in, fin
 
 
 
-
+K:
 
 On a windy morning I open my laptop and I write an r and an o into the search bar of my browser, which automatically fills in the rest of the url I have entered so many times while working on the site that it leads to. Right click. View Page Source. I make sure line wrap is ticked at the top, and with a subtle but sweet sense of excitement I scroll down to find a piece of text nested by two short strings of characters that resemble arrows pointing outwards or open arms. That which is held in between is hidden from the webpage and can only be read when you make your way here. Such a comment, as it is officially called, is typically used by developers for functional annotations — to summarise code or to explain the developer’s intent — and sometimes to disable a piece of code without deleting it entirely. For the past weeks we have been using it to exchange letters to each other.
 
-<!-- K: above is a paragraph that could be used as an introduction to our Correspondence, wherever that should come in, from a single person's perspective as it makes more sense here, and thinking that maybe it's also nice to switch between I and we at times. If we end up marking who wrote what, I think it shouldn't be too confusing. -->
+<!-- above is a paragraph that could be used as an introduction to our Correspondence, wherever that should come in, from a single person's perspective as it makes more sense here, and thinking that maybe it's also nice to switch between I and we at times. If we end up marking who wrote what, I think it shouldn't be too confusing. -->
 
 
 
