@@ -13,9 +13,9 @@ Before we embarked on our trip, our friend, Jack, pointed us towards a text that
 
 How would coding in situ affect how a website works and looks, and the way you as a developer, user or visitor would be able to inhabit such a website? Could this method make a website more placeful or situated? And what would it mean for a website to be site-specific?
 
-A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions, and is commonly hosted elsewhere than where its author is located. There are any number of ways in which you could make a website site-specific, from hosting it on your own server to making it accessible only if you enter its local wifi network[5]. 
+A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions, and is commonly hosted elsewhere than where its author is located. There are any number of ways in which you could make a website site-specific, from hosting it on your own server to making it accessible only if you enter its local wifi network[5]. The Robida website became placeful in different sense, more in the way it could be inhabited and reflect life in the village through subtle features.
 
-
+We watched the members of Robida use and adapt the website for and to their own needs whether it was through the reappropriating templates or maintaining the ‘who's in Topoló’ function. The journal grew and developed in a completely different way than we imagined, where a post became more of a notebook, and more colour was brought in with every new visitor being asked by Aljaž to fill in their profile upon check-in. 
 
 
 
