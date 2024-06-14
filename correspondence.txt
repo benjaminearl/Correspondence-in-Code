@@ -7,30 +7,25 @@ In February 2022, an are.na channel was created called ‘Code of Conduct of Cod
 
 While the internet is a big place, full of dark corners and wall gardens, somehow we ended up running into the same people there over and over again. Whether it was those making the web a little more poetic[1] or those developing hardware in local places in situated manners[2], we seemed to come across a network[3] of those thinking through what the internet could be and how to create for it. In the years that the two of us got to know each other we often exchanged links to these kinds of online gems and added bits to the ‘handmade web’[4] ourselves, revelling in how we felt more hopeful about the web again. Whereas most mainstream platforms incite addictive doomscrolling, these small handmade sites encouraged a way of spending time on the web that felt more healthy and somehow also more connected to life outside of it.
 
-The commission from Robida came in like a perfect opportunity to put our shared values around coding into practice more deliberately, and try out a process that fit our desire to overcome the common disconnect between work within digital realms and life in physical surroundings. We had never been to Topolò, only heard and saw fragments from afar, so we were determined to immerse ourselves in the physical site that houses most of Robida—her members and activities—in order to imbue a sense of place in its online counterpart.
+The commission from Robida came in like a perfect opportunity to put our shared values around coding into practice more deliberately, and try out a process that fit our desire to overcome the common disconnect between work within digital realms and life in physical surroundings. We had never been to Topolò, only heard and saw fragments from afar, so we were determined to immerse ourselves in the physical site that houses most of the collective—her members and activities—in order to imbue a sense of place in its online counterpart.
 
 Before we embarked on our trip, our friend, Jack, pointed us towards a text that mentioned a practice by Jane Rendell called Site Writing: “When writing responds to physical, social and political qualities of sites, is inserted back into sites, spaces are made out of encounters with readers, and like architecture, texts can inhabit and be inhabited.” Although slightly puzzled by the quote we were interested to see how this idea—or at least our interpretation of it—could apply to the writing of code, with a perhaps confusing yet poetic double meaning of the word *site*. Soon after a text file was added to the Code of Conduct of Code channel that contained the name we decided to give this method we'd be exploring: “Coding in Situ.”
 
-How would coding in situ affect how a website works and looks, and the way you as a developer, user or visitor would be able to inhabit such a website? Could this method make a website more placeful or situated? And what would it mean for a website to be site-specific?
+How would coding in situ affect how a website works and looks? Could this method make a website more placeful or situated? And what would it technically even mean for a website to be site-specific?
 
-A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions, and is commonly hosted elsewhere than where its author is located. There are any number of ways in which you could make a website site-specific, from hosting it on your own server to making it accessible only if you enter its local wifi network[5]. The Robida website became placeful in different sense, more in the way it could be inhabited and reflect the local life through subtle features and in return become part of the village. 
+A website is part of the web, an interconnected amalgamation of cables and computers all buzzing and beeping as we attempt to access the information thats been made accessible through our browsers. A website can be accessed almost anywhere given the right conditions, and is commonly hosted elsewhere than where its author is located. In that sense there are any number of ways in which you could make a website site-specific, from hosting it on your own server to making it accessible only if you enter its local wifi network[5]. The Robida website became placeful in different sense, more in the way it could be inhabited and reflect the local life through subtle features and in return become part of the village. 
 
-During our first visit in April 2022 we spend many days figuring out the structure of all that Robida encompasses together with the collective, in between walks and meals. The time outside of our work sessions was just as important for the project, if not more, and allowed us to observe certain characteristics that would never have come up in online meetings. The terraces that shape the layered landscape of the village found their way back into the layout for the homepage. We would go ‘upstairs’ to Izba and ‘downstairs’ to Vida and Aljaž’s place. A morning walk ‘up’ the path beyond the church led to thinking about the convention in websites to always start at the top and scroll down. We learned that in colder seasons you could tell if someone was home by whether or not there was smoke drifting from their chimney, which inspired the ‘currently in Topolò’ marquee in the footer of the website. 
+During our first visit in April 2022 we spend many days figuring out the structure of all that Robida encompasses together with the collective, in between walks and meals. The time outside of our work sessions was just as important for the project, if not more, and allowed us to observe certain characteristics that would never have come up in online meetings. We would go ‘upstairs’ to Izba and ‘downstairs’ to Vida and Aljaž’s place. A morning walk ‘up’ the path beyond the church led to thinking about the convention in websites to always start at the top and scroll down. The terraces that shape the layered landscape found their way back into the layout for the homepage. We learned that in colder seasons you could tell if someone was home by whether or not there was smoke drifting from their chimney, which inspired the ‘currently in Topolò’ marquee in the footer of the website. 
 
-Following the launch of version 1.0 of the website we watched the members of Robida use and adapt the website for and to their own needs whether it was through the reappropriating templates or diligently maintaining the ‘currently in Topolò’ function. The journal grew and developed in a completely different way than we imagined, where a post became more of a notebook, and more colours were brought in with every new visitor being asked by Aljaž to fill in their profile upon check-in. 
+Following the launch of version 1.0 of the website we watched the members of Robida use and adapt the website for and to their own needs whether it was through reappropriating templates or diligently maintaining the ‘currently in Topolò’ function. The journal grew and developed in a completely different way than we imagined, where a single post became more of an ongoing notebook, and more colours were brought in with every new visitor being asked by Aljaž to fill in their profile upon checking into the village. 
 
-Last Spring we returned to Topolò to give a workshop and carry out maintenance that was long overdue. We had a list of things that didn't work, had broken along the way or become superfluous, and ended up spending most days around Vida and Aljaž’s table cleaning up code and building missing functionalities.
+Last Spring we returned to Topolò to give a workshop and carry out maintenance that was long overdue. We had a list of things that didn't work, had broken along the way or become superfluous, and ended up spending many days around Vida and Aljaž’s table cleaning up code and building missing functionalities. This kind of labour could have been done at our desks in Rotterdam, but doing it in situ gave it more space and focus. It made us reflect on the idea of maintenance as an essential type of work, and how to create rituals for it.
 
+Once back home again, the two of us decided to start corresponding about this through the source code of the Robida website, making it a site which we were to write in and about. The ‘comments’ in between the HTML that we normally use to annotate pieces of code—also an act for the sake of maintenance—were now filled with logs that read like letters. We left hints about where our next log could be found, creating a trail through the website.
 
+It is interesting how physical and digital environments can provide different forms of intimacy and attentiveness. Whereas going to Topolò to work on site rather than merely corresponding over video-calls with the Robida members made our process more intimate and enriching, the correspondence between the two of us through this digital infrastructure gave us a special space for thoughtful exchange beyond our usual IRL conversations in our shared studio-space.
 
-
-
-
-
-
-
-
-
+In a way it feels like we only just skimmed the surface when it comes to writing on site(s) and somewhat premature to end our correspondence here. So in line with the idea of maintenance and its inherent ongoing quality, we might just continue placing our thoughts among the lines of code. If you would like to take a peak under the hood, go to robidacollective.com and in whichever browser you're in, find the "view source" option (usually under view > developer in the top bar). See you there!
 
 
 1. Laurel Schwulst thinking about a website as a physical space https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
@@ -38,6 +33,24 @@ Last Spring we returned to Topolò to give a workshop and carry out maintenance 
 3. Kristoffer Tjalve and Elliott Cost have been mapping out a significant portion of this corners of the web https://diagram.website/
 4. The handmade web is a term coined by J.R. Carpenter: “I evoke the term 'handmade web' to refer to web pages coded by hand rather than by software; web pages made and maintained by individuals rather than by businesses or corporations; web pages which are provisional, temporary, or one-of-a-kind; web pages which challenge conventions of reading, writing, design, ownership, privacy, security, or identity.” https://luckysoap.com/statements/handmadeweb.html
 5. Ben has experimented with both, hosting the Extra Practice website on a Raspberry Pi on his desk and a 1MB website using an ESP32 Module, a battery, and a solar panel in a field during the Hackers & Designers Summer Camp 2023. The latter could serve as a captive portal (similar to WiFi login pages at hotels and airports) to any device connected to the computer’s WiFi signal.
+
+
+Photos:
+
+![[000028.jpg]]
+The terraces which inspired the layered lay-out of the homepage
+
+![[000024.jpg]]
+Going ‘upstairs’ to Izba
+
+![[000012.jpg]]
+One of many meals
+
+![[000013.jpg]]
+Our desk for the week
+
+![[000026.jpg]]
+Ben on a morning walk
 
 
 
